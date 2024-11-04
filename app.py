@@ -11,7 +11,7 @@ trainer = ListTrainer(bot)
 trainer.train(['What is your name?', 'My name is Moss'])
 trainer.train(['Who are you?', 'I am a bot'])
 trainer.train(['Where do I get a free t-shirt?', 'See Krista Sali in HR'])
-trainer.train(['who is the king?', 'Jamie Jamiesons'])
+trainer.train(['who is the king?', 'Fatmex'])
 # trainer.train("chatterbot.corpus.english")
 
 
